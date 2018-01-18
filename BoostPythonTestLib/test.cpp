@@ -1,3 +1,4 @@
+// Author Michael Shaffer
 #include <boost/python.hpp>
 
 bool sw = false;
